@@ -1,4 +1,4 @@
 # DataScienceClub
 
-Here is the archive for CSM - Data Science Club.\n
+Here is the archive for CSM - Data Science Club.
 Lectures notes
